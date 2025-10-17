@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "ask": [
+      "Read(!D:\\wwwroot\\docs/**)",
+      "Edit(!D:\\wwwroot\\docs/**)"
+    ],
+    "allow": [
+      "Read(D:\\wwwroot\\docs/**)",
+      "Edit(D:\\wwwroot\\docs/**)"
+    ]
+  },
+  "memoryImport": {},
+  "monitoring": {}
+}
